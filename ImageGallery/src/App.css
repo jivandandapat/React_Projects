@@ -1,0 +1,14 @@
+.outer-heading  {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#heading {
+  margin: 5 auto;
+  letter-spacing: 5px;
+}
+
+a:visited {
+  color: #1a4adce2;
+}
